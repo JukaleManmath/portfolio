@@ -4,7 +4,7 @@ A clean and simple portfolio template built using React, Javascript, CSS
 
 ## Preview
 
-[See Live](https://smit-1999.github.io)
+[See Live](https://JukaleManmath.github.io)
 
 ## Instructions
 
