@@ -9,9 +9,9 @@ const about = {
   name: 'Manmath Jukale',
   role: 'MS CS at State University of New York at Binghamton',
   description:
-    'Experienced professional in software development interested in building scalable systems , Passionate about Cyber Security and AI Solutions.',
+    'Experienced professional in software development interested in building scalable systems , Passionate about Software Development and AI/ML Solutions.',
   resume:
-    'https://drive.google.com/file/d/1QWQlalINAevSJzzI5WMzz7dWE7mzuZuD/view?usp=drive_link',
+    'https://drive.google.com/file/d/1Mu6hMNEjT7NFBD2fz2PUWMtuiHthq8AO/view?usp=drive_link',
   social: {
     linkedin: 'https://www.linkedin.com/in/jukalemanmath',
     github: 'https://github.com/JukaleManmath',
@@ -71,29 +71,32 @@ const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
   'C++',
+  'Python',
   'Java',
   'JavaScript',
+  'TypeScript',
+  'Spring Boot',
   'React',
-  'Python',
+  'Node.js',
+  'Docker',
+  'Jenkins',
+  'Git',
+  'REST APIs',
   'Linux',
   'tcpdump',
-  'Splunk',
-  'snort',
-  'Nessus',
-  'NMap',
 ]
 
 const experience = [
   {
     name: 'Callvcal',
     description:
-      'Worked as Security Analyst , monitored and analyzed security alerts by utilizing SIEM tools to detect, assess, and respond to potential threats & carried out vulnerability assessments through regular scans to identify and address security weaknesses',
+      'Worked as Software Engineer , Spearheaded backend optimizations for a high-traffic system using Java and Spring Boot, enhancing system performance by 25% through improved API efficiency, collaborative troubleshooting with DevOps, and rigorous testing to ensure seamless multi-platform functionality.',
     stack: ['HYD, India', 'Nov 2023 - May 2024'],
   },
   {
     name: 'ELite Softwares',
     description:
-      'Security intern in Information Security team ,Developed a solid foundation in cybersecurity by completing training on tools, company protocols, and industry best pratices ; Led vulnerability assessments, threat analysis, and incident response efforts,',
+      'Worked as Full-Stack Developer Intern , Led the development of a full-stack web application with a React frontend and Node.js backend, resulting in an 80% increase in client engagement; streamlined deployment pipelines with Docker and Jenkins, achieving a 50% reduction in deployment time and minimizing manual errors.',
     stack: ['Pune, India', 'May 2023 - Oct 2023'],
   },
   {
