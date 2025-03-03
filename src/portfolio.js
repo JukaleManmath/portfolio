@@ -90,7 +90,10 @@ const experience = [
   {
     name: 'Callvcal',
     description:
-      'Worked as Software Engineer , Spearheaded backend optimizations for a high-traffic system using Java and Spring Boot, enhancing system performance by 25% through improved API efficiency, collaborative troubleshooting with DevOps, and rigorous testing to ensure seamless multi-platform functionality.',
+      ' Developed Callvcal’s website with the MERN stack, ensuring smooth user experience and high performance'
+      ' Optimized MongoDB queries and RESTful APIs, reducing response time by 15% and handling 2,000+ requests'
+      ' Implemented JWT authentication, OAuth login, and RBAC, enhancing security and reducing unauthorized access by 40%'
+      ' Enhanced UI/UX with lazy loading and pagination, improving load times and user experience'
     stack: ['HYD, India', 'Nov 2023 - May 2024'],
   },
   {
